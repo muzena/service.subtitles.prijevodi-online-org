@@ -21,11 +21,11 @@
 
         <disclaimer lang="en_GB">Users need to provide [B]Prijevodi-online.org[/B] username and password in add-on configuration</disclaimer>
         <disclaimer lang="sr_RS">Корисници треба да упишу корисничко име и лозинку са сајта [B]Prijevodi-online.org[/B] у подешавања додатка</disclaimer>
-        <disclaimer lang="hr_HR">Korisnici trebaju upisati korisničko ime i lozinku sa sajta [B]Prijevodi-online.org[/B] u postavke dodatka</disclaimer>
+        <disclaimer lang="hr_HR">Korisnici trebaju upisati korisničko ime i lozinku za [B]Prijevodi-online.org[/B] stranicu u postavke dodatka</disclaimer>
 
         <news lang="en_GB">New addon [CR][CR] -Version 0.1[CR] Initial version</news>
         <news lang="sr_RS">Нови додатак [CR][CR] -Верзија 0.1[CR] Прва верзија</news>
-        <news lang="hr_HR">Novi dodatak [CR][CR] -Verzija 0.1[CR] Prva verzija</news>
+        <news lang="hr_HR">Novi dodatak [CR][CR] -Inačica 0.1[CR] Prva inačica</news>
 
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <website>https://www.prijevodi-online.org</website>
